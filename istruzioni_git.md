@@ -34,3 +34,6 @@ Per effettuare l'invio sulla repository online userò il comando:
 ```powershell
 git push
 ``` 
+
+***
+Prodotto da: *Giovanni Pace*
